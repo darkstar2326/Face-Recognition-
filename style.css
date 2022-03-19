@@ -1,0 +1,23 @@
+*{
+    color: white;
+    background-color: rgb(125, 125, 190);
+}
+
+#heading{
+    width: 80%;
+    font-size: 22px;
+}
+
+#heading:hover{
+ cursor: default;
+}
+
+#para{
+    font-size: 20px;
+}
+
+#camera,#result{
+    border: 1px black solid;
+    width: 400px;
+    height: 300px;
+}
